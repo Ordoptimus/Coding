@@ -1,0 +1,1 @@
+file1.writelines(L) for L = [str1, str2, str3]
